@@ -1,4 +1,4 @@
-# coepimobile
+# CoEpiMobile
 
 To Run: 
 
